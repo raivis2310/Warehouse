@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Warehouse\\": "src/"
+    }
+  },
+  "require": {
+    "nesbot/carbon": "^2.72"
+  }
+}
